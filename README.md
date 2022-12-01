@@ -17,11 +17,12 @@ https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 
 ### Some Sceenshots of This Webapp -
 
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture1.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture2.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture3.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture4.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture5.PNG)
+![](https://github.com/Aks9111hat/MediHelp/blob/main/screenshots/3.jpg)
+![](https://github.com/Aks9111hat/MediHelp/blob/main/screenshots/4.jpg)
+![](https://github.com/Aks9111hat/MediHelp/blob/main/screenshots/5.jpg)
+![](https://github.com/Aks9111hat/MediHelp/blob/main/screenshots/7.jpg)
+![](https://github.com/Aks9111hat/MediHelp/blob/main/screenshots/8.jpg)
+![](https://github.com/Aks9111hat/MediHelp/blob/main/screenshots/9.jpg)
 
 
 
